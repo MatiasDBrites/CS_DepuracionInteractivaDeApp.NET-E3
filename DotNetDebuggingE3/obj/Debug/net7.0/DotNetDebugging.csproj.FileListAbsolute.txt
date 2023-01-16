@@ -1,0 +1,15 @@
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll
